@@ -9,6 +9,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
     //View Layout
     private Button vbtn_add;
+    private Button vbtn_zeros;
     private Button vbtn_sub;
     private TextView vtxt_click;
     private int cont = 0;
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         //View references
         vbtn_add = findViewById(R.id.btn_add);
         vbtn_sub = findViewById(R.id.btn_sub);
+        vbtn_zeros = findViewById(R.id.btn_zeros);
         vtxt_click = findViewById(R.id.txt_click);
         //Set Events Listeners
         vbtn_add.setOnClickListener(new View.OnClickListener() {
