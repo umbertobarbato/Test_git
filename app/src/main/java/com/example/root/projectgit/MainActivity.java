@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
      * Subroutine set text of label on cont;
      */
     private void setTxttoCont()        {
-        vtxt_click.setText(String.format(getString(R.string.labelclick_text), cont));
+        vtxt_click.setText(getString(R.string.labelclick_init)+cont+getString(R.string.labelclick_txtend));
     }
 
 
