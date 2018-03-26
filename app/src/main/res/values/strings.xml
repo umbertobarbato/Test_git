@@ -4,4 +4,6 @@
     <string name="labelclick_text">Hai clickato %d volte</string>
     <string name="labelclick_txtinit">Hai clickato </string>
     <string name="labelclick_txtend"> volte</string>
+    <string name="btn_text_zeros">Azzera</string>
+    <string name="checkbox_txt_multiplydiv">Moltiplica e dividi</string>
 </resources>
