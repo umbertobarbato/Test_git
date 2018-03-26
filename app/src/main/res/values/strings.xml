@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ProjectGit</string>
+    <string name="labelclick_init">Hai cliccato 0 volte</string>
+    <string name="labelclick_text">Hai clickato %d volte</string>
 </resources>
